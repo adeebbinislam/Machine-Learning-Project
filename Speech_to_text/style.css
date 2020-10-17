@@ -1,0 +1,6 @@
+#status_.active::after{
+    content: 'active';
+}
+#status_.inactive::after{
+    content: 'inactive';
+}
